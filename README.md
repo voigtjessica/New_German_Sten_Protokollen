@@ -26,4 +26,4 @@ forbidden_terms = ['Holzner', 'Holzleitner', 'Waldneukirchen', 'Holzmann', 'Wald
 5. I further sliced the TOPs into Redes
 6. I searched which Rede has our search terms
 7. I gathered the filtered speeches with th plenary information and saved the speeches in ```filtered_reden``` and the speeches with the information as ```reden_df_final.csv```
-8.  
+   
